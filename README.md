@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giuliettasu
 - 👀 I’m interested in pets, nature & tech
-- 🌱 I’m currently learning sysop
+- 🌱 I’m currently learning net-sys-op
 - 💞️ I’m looking to collaborate to save the world
 - 📫 How to reach me : here if you want
 
